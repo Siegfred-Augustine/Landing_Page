@@ -1,0 +1,45 @@
+* {
+    border: 1px solid red;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+}
+
+.hero-content {
+    display: flex;
+}
+.hero-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cards {
+    display: flex;
+}
+
+.quoted-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.call-to-action {
+    display: flex;
+}
